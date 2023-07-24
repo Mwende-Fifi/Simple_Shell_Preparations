@@ -3,7 +3,7 @@
 /**
  * split_line - split a string into multiple strings
  * @line: string to be splited
- * 
+ *
  * Return: pointer that points to the new array
  */
 
